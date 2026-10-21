@@ -1,0 +1,4 @@
+interface:
+  display_name: "VEO PROMPT PRO"
+  short_description: "Viết prompt Veo, khóa nhân vật và dựng storyboard"
+  default_prompt: "Dùng $veo-prompt-pro viết prompt video theo ý tưởng của tôi."
